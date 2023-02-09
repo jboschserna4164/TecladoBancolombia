@@ -1,0 +1,29 @@
+.tecla{
+  
+    background:gray;
+    margin:0px;
+    margin-top:2px;
+  }
+  .dimension{
+    width:32px;
+    height:32px;
+  }
+  #borrar{
+    margin-top:2px;
+    width:76px;
+    height:32px;
+  }
+  #btn_ok{
+    margin-top:2px;
+    width:90%;
+    margin:5px;
+    height:32px;
+  }
+  #teclado{
+    width: 170px;
+   height: 173px;
+    border:1px solid black;
+    text-align:center;
+    margin:0 auto;
+    padding-top:10px;
+  }
