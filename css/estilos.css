@@ -12,12 +12,14 @@
     margin-top:2px;
     width:76px;
     height:32px;
+    background-color: aqua;
   }
   #btn_ok{
     margin-top:2px;
     width:90%;
     margin:5px;
     height:32px;
+    background-color: aquamarine;
   }
   #teclado{
     width: 170px;
@@ -26,4 +28,5 @@
     text-align:center;
     margin:0 auto;
     padding-top:10px;
+    background-color: darkslategrey;
   }
